@@ -1,0 +1,28 @@
+name: Equestrian America
+favicon: null
+layout_spectrum: 0.08052767068147659
+typography_spectrum: 0.9787526470609009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7856048652902246
+  lightness: 0.6148162591271102
+  saturation: 0.18867383571341634
+  rhythmicContrast: 0.7029717215336859
+purpose: []
