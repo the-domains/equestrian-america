@@ -1,6 +1,6 @@
 name: Equestrian America
 favicon: null
-layout_spectrum: 0.51208
+layout_spectrum: 0.70541
 typography_spectrum: 0.15324
 title: 'Equestrian America: A Celebration of Equestrian Culture and Competition'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#d70000'
     - '#5a5b61'
   brandStrength: 0.7856048652902246
-  lightness: 0.6148162591271102
-  saturation: 0.125
+  lightness: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.7029717215336859
 purpose: []
