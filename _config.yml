@@ -1,29 +1,41 @@
-name: Equestrian America
-favicon: null
-layout_spectrum: 0.05178
-typography_spectrum: 0.15324
 title: 'Equestrian America: A Celebration of Equestrian Culture and Competition'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2544803
+  brandStrength: 0.9014337
+  lightness: 0.5949821
+  brandColors:
+    - '#CFE8F9'
+    - '#03050D'
+    - '#A4A35C'
+    - '#1F3039'
+    - '#778088'
+  rhythmicContrast: 0.7029717
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Equestrian America
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#a4ddf3'
-    - '#000000'
-    - '#00c6cb'
-    - '#d70000'
-    - '#5a5b61'
-  brandStrength: 0.7856048652902246
-  lightness: 0.5
-  saturation: 0.1875
-  rhythmicContrast: 0.7029717215336859
-purpose: []
+typography_spectrum: 0.8637993
+layout_spectrum: 0.3853047
